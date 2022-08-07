@@ -17,12 +17,7 @@ const Navbar = () => {
             <li className="nav-item">
               <a className="nav-link" href="#">💻</a>
             </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">📆</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link disabled" href="#">⏲️</a>
-            </li>
+           
           </ul>
         </div>
       </nav>

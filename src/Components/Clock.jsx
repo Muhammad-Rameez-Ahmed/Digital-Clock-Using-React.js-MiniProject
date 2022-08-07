@@ -16,7 +16,7 @@ const Clock = () => {
     setInterval(updateTime, 1000);
     return (
         <>
-            <h1> Digital Clock 👌 Today Date</h1>
+            <h1>   Digital Clock 👌 Today Date</h1>
             <h2 >🕛{time}</h2>
 
         </>
