@@ -1,4 +1,3 @@
-
 import './App.css';
 import Clock from './Components/Clock';
 import Show from './Components/Show';
@@ -6,11 +5,11 @@ import Show from './Components/Show';
 function App() {
   return (
     <>
-    
-      {/* <Clock/> */}
+    <div className='App'>
+      <Clock/>
    
     <Show/>
-    
+    </div>
 
     </>
   );
